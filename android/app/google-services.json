@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599108846296",
+    "project_id": "smartgoaltracker-f214d",
+    "storage_bucket": "smartgoaltracker-f214d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599108846296:android:03c954a71b42f21e350dad",
+        "android_client_info": {
+          "package_name": "com.example.smartgoaltracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-uISbZJVfBTqEOuN8IPUDzSLHojLmixc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
